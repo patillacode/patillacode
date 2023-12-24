@@ -37,6 +37,8 @@ Motto: `If I can write a script to do it for me I most likely will.`
           
 <img align="left" alt="css" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 
+<img align="left" alt="javascript" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
 <img>
 <br>       
 
