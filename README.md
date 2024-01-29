@@ -61,6 +61,7 @@ Motto: `If I can write a script to do it for me I most likely will.`
 
 * 🌍  I'm based in Madrid, Spain
 * 🖥️  See my portfolio at [code.patilla.es](http://code.patilla.es)
+* 📦  See my pypi packages [here](https://pypi.org/user/patillacode/)
 * ✉️  You can contact me at [patillacode@gmail.com](mailto:patillacode@gmail.com)
 * 🤝  I'm open to collaborating on anything interesting and anything with Python
 
