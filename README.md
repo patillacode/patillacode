@@ -14,7 +14,7 @@
 
 ## About Me
 
-Senior Backend Developer with a decade of experience in designing and implementing scalable, maintainable systems. 
+Senior Backend Developer with over a decade of experience in designing and implementing scalable, maintainable systems. 
 
 Based in Madrid, Spain. 
 
